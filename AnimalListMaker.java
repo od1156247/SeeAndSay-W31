@@ -1,6 +1,6 @@
 package SeeAndSay;
 
-import SeeAndSay.AnimalImpl.dkatz3;
+import SeeAndSay.AnimalImpl.*;
 
 import java.util.Collections;
 import java.util.LinkedList;
