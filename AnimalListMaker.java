@@ -19,32 +19,27 @@ public class AnimalListMaker {
 
 		// animalList.add(new SampleAnimal());
 
-		/* EN1 Section */
+		/* W31 Section */
 
-		//animalList.add(new bo1145485());
-		//animalList.add(new brow90400());
-		//animalList.add(new ca1165663());
-		//animalList.add(new ch1106737());
-		//animalList.add(new de1157389());
-		//animalList.add(new ga1073076());
-		//animalList.add(new ga1178074());
-		//animalList.add(new is1145345());
-		//animalList.add(new jos129715());
-		//animalList.add(new ko1168371());
-		//animalList.add(new lu1127103());
-		//animalList.add(new mi1156959());
-		//animalList.add(new mu1022394());
-		//animalList.add(new pa1157971());
-		//animalList.add(new sa1153877());
-		//animalList.add(new sh1003266());
-		//animalList.add(new shf913514());
-		//animalList.add(new th1151057());
-		//animalList.add(new til864760());
-		//animalList.add(new ur1124787());
-		//animalList.add(new vi1085322());
-
-
-
+		//animalList.add(new ag1164326());
+		//animalList.add(new al1143662());
+		//animalList.add(new di1095415());
+		//animalList.add(new fo1168713());
+		//animalList.add(new go1109931());
+		//animalList.add(new ha1117748());
+		//animalList.add(new ham670796());
+		//animalList.add(new he1129401());
+		//animalList.add(new kor802692());
+		//animalList.add(new ma1086322());
+		//animalList.add(new man833866());
+		//animalList.add(new mcc807348());
+		//animalList.add(new mkarr());
+		//animalList.add(new mo1172716());
+		//animalList.add(new od1156247());
+		//animalList.add(new om1111440());
+		//animalList.add(new ow1131999());
+		//animalList.add(new ra1085113());
+		//animalList.add(new ra1161720());
 	}
 
 	/* Simple Constructor */

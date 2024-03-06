@@ -17,7 +17,6 @@ public class Main_SeeAndSay {
                         talker.getClass().getSimpleName(),
                         e.getCause());
             }
-
         }
     }
 }
