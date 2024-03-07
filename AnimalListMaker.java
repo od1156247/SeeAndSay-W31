@@ -39,7 +39,7 @@ public class AnimalListMaker {
 		//animalList.add(new om1111440());
 		//animalList.add(new ow1131999());
 		//animalList.add(new ra1085113());
-		//animalList.add(new ra1161720());
+		animalList.add(new ra1161720());
 	}
 
 	/* Simple Constructor */
