@@ -10,7 +10,7 @@ public class ham670796 extends Animal {
 
     @Override
     public String getAnimalName() {
-        return "Flamingo";
+        return "Vivid Flamingo";
     }
 
     @Override
