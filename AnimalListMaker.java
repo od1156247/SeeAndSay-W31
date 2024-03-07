@@ -22,7 +22,7 @@ public class AnimalListMaker {
 		/* W31 Section */
 
 		//animalList.add(new ag1164326());
-		//animalList.add(new al1143662());
+		animalList.add(new al1143662());
 		//animalList.add(new di1095415());
 		//animalList.add(new fo1168713());
 		//animalList.add(new go1109931());
