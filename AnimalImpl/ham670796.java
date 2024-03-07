@@ -20,6 +20,6 @@ public class ham670796 extends Animal {
 
     @Override
     public String getDescription() {
-        return "."
+        return ".";
     }
 }
