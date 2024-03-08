@@ -1,6 +1,7 @@
 package SeeAndSay.AnimalImpl;
 
-import SeeAndSay.Animallmpl.*;
+import SeeAndSay.Animal;
+import SeeAndSay.AnimalImpl.*;
 
 public class ow1131999 extends Animal {
     @Override
