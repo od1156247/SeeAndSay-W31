@@ -1,3 +1,4 @@
+
 package SeeAndSay.AnimalImpl;
 
 import SeeAndSay.Animal;
@@ -11,16 +12,16 @@ public class mcc807348 extends Animal {
 
     @Override
     public String getAnimalName() {
-        return "Crazy Horse ";
+        return "Creative Horse";
     }
 
     @Override
     public String getSound() {
-        return " HOHOHOHOHOHOHOHOOw";
+        return "Blowwwwwwwwwwwwww";
     }
 
     @Override
-    public String getDescription(){
-        return " Stallion" ;
+    public String getDescription() {
+        return "Im a tall and fast, Im a stallion.";
     }
 }
