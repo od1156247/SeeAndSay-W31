@@ -5,7 +5,7 @@ public class mcc807348 extends Animal {
 
     @Override
     public String getAuthor() {
-        return " Jordan McCullum ";
+        return "Jordan McCullum";
     }
 
     @Override
